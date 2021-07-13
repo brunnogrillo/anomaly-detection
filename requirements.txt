@@ -1,1 +1,10 @@
 boto3
+keras
+tensorflow==2.5.0
+scipy
+sklearn
+opencv-python
+numpy
+tqdm
+joblib
+matplotlib
