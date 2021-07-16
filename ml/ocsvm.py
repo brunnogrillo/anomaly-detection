@@ -1,5 +1,5 @@
 import glob
-from keras.applications.resnet50 import ResNet50, preprocess_input
+from tensorflow.keras.applications.resnet50 import ResNet50
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 from sklearn.ensemble import IsolationForest
